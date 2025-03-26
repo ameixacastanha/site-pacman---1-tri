@@ -4,8 +4,8 @@ body
 h1 
 {color: white;
 font-size: 300%;
-text-align: center
-}
+text-align: center;
+border-style: groove;}
 
 h2
 {color:white;
