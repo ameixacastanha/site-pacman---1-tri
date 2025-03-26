@@ -2,9 +2,10 @@ body
 {background-image: linear-gradient(black,rgb(255, 0, 128));}
 
 h1 
-{color: white
+{color: white;
 font-size: 300%;
-text-align: center;}
+text-align: center
+}
 
 h2
 {color:rgb(255, 174, 0);
